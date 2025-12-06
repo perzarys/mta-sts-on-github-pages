@@ -1,5 +1,6 @@
 version: STSv1
 mode: enforce
+max_age: 10368000
 mx: mail.anonaddy.me
 mx: mail2.anonaddy.me
-max_age: 604800
+mx: app.addy.io
